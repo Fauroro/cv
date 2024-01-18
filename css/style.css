@@ -1,0 +1,27 @@
+.perfil{
+    margin: auto;
+    padding-top: 10px;
+    border-radius: 50%;
+}
+table{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    border: 1px dotted black;
+    border-spacing: 0px;
+    table-layout: fixed;
+}
+.InfPer{
+    line-height: 3px;
+}
+table td{
+    width: 33%;
+    border: 1px dotted black;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: blue;
+}
