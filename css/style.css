@@ -1,22 +1,24 @@
 .perfil{
     margin: auto;
-    padding-top: 10px;
+    margin-top: 10px;
+    /* padding-top: 10px; */
     border-radius: 50%;
+    box-shadow: 4px 4px 8px gray ;
 }
 table{
     width: 80%;
     margin: auto;
     text-align: center;
     border: 1px dotted black;
-    border-spacing: 0px;
-    table-layout: fixed;
+    /* border-spacing: 0px; */
+    /* table-layout: fixed; */
 }
 .InfPer{
     line-height: 3px;
 }
 table td{
     width: 33%;
-    border: 1px dotted black;
+    /* border: 1px dotted black; */
 }
 a{
     text-decoration: none;
@@ -25,3 +27,17 @@ a{
 a:hover{
     color: blue;
 }
+.vl {
+    border-left: 1.5px dashed rgb(156, 156, 156);
+    height: 800px;
+    position: absolute;
+    left: 36.72%;   
+    top: 0;
+  }
+.vr {
+    border-left: 1.5px dashed rgb(156, 156, 156);
+    height: 800px;
+    position: absolute;
+    right: 36.72%;   
+    top: 0;
+  }
