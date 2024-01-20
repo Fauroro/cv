@@ -6,11 +6,11 @@
     box-shadow: 4px 4px 8px gray ;
 }
 table{
-    width: 80%;
+    width: 75%;
     margin: auto;
     text-align: center;
     border: 1px dotted black;
-    /* border-spacing: 0px; */
+    border-spacing: 0px;
     /* table-layout: fixed; */
 }
 .InfPer{
@@ -19,6 +19,7 @@ table{
 table td{
     width: 33%;
     /* border: 1px dotted black; */
+    border-right: 1px dotted rgb(180, 176, 176);
 }
 a{
     text-decoration: none;
@@ -27,7 +28,7 @@ a{
 a:hover{
     color: blue;
 }
-.vl {
+/* .vl {
     border-left: 1.5px dashed rgb(156, 156, 156);
     height: 800px;
     position: absolute;
@@ -40,4 +41,4 @@ a:hover{
     position: absolute;
     right: 36.72%;   
     top: 0;
-  }
+  } */
