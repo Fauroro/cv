@@ -28,17 +28,3 @@ a{
 a:hover{
     color: blue;
 }
-/* .vl {
-    border-left: 1.5px dashed rgb(156, 156, 156);
-    height: 800px;
-    position: absolute;
-    left: 36.72%;   
-    top: 0;
-  }
-.vr {
-    border-left: 1.5px dashed rgb(156, 156, 156);
-    height: 800px;
-    position: absolute;
-    right: 36.72%;   
-    top: 0;
-  } */
